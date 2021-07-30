@@ -7,7 +7,7 @@ Alkanes are organic compounds that consist of single-bonded carbon and hydrogen 
 
 ![Output](outputs/alkanes.png)
 
-##Homologous alkanes
+## Homologous alkanes
 
 1.[Methane](en.wikipedia.org/wiki/Methane)
 
