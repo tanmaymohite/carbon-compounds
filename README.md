@@ -1,6 +1,8 @@
 #Carbon compound:-Alkanes
 <hr>
+
 Alkanes are organic compounds that consist of single-bonded carbon and hydrogen atoms. The formula for Alkanes is CnH2n+2, subdivided into three groups – chain alkanes, cycloalkanes, and the branched alkanes.
+
 
 ![Output](outputs/alkanes.png)
 
@@ -84,3 +86,5 @@ program output:
 program output:
 
 ![Output](outputs/decanes.png)
+
+
