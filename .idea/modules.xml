@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/carbon-compounds.iml" filepath="$PROJECT_DIR$/.idea/carbon-compounds.iml" />
       <module fileurl="file://$PROJECT_DIR$/../co-ordinate-geometry/.idea/co-ordinate-geometry.iml" filepath="$PROJECT_DIR$/../co-ordinate-geometry/.idea/co-ordinate-geometry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../quadratic-equation/.idea/quadratic-equation.iml" filepath="$PROJECT_DIR$/../quadratic-equation/.idea/quadratic-equation.iml" />
     </modules>
   </component>
 </project>
